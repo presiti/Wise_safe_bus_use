@@ -3,8 +3,8 @@
 
 ## 슬안버(WSB) 프로젝트 개발 팀
 * ### Team
-  - [류채연]()
+  - [류채연](https://github.com/c-hex)
   - [변윤진](https://github.com/presiti)
-  - [유주형]()
+  - [유주형](https://github.com/ruyari1024)
   
  ## 개발 방법
