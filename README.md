@@ -7,4 +7,6 @@
   - [변윤진](https://github.com/presiti)
   - [유주형](https://github.com/ruyari1024)
   
- ## 개발 방법
+ # 개발 언어
+ 
+ # 사용 모델
